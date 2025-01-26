@@ -1,6 +1,5 @@
 # AI-Powered Autonomous Agents
 
-AI Agents Demo
 
 AI-Powered Autonomous Agents is an open-source project that automates daily workflows for individuals using artificial intelligence. This tool streamlines tasks, enhances productivity, and adapts to your personal needs.
 
@@ -18,12 +17,23 @@ To install AI-Powered Autonomous Agents, follow these steps:
 ```bash
 git clone https://github.com/yourusername/ai-powered-autonomous-agents.git
 cd ai-powered-autonomous-agents
-pip install -r requirements.txt
+```
+we recommend using python virutual environments
+
+To create a python virtual environment
+```bash
+python -m venv venv
+
 ```
 
-# Demos 
-[Prompt]((https://github.com/AbhiramChikatla/Ai-Powered-Autonomous-Agents/blob/main/agent_history.gif)):In docs.google.com Write a letter in Google Docs to my Papa, 
-thanking him for everything,rename the file as letter_to_papa and save the document in the  (PDF)format and download the file. Note: if you dont know the next step ask me for help
+To activate the virtual environment 
+```bash
+venv\Scripts\activate
+```
+Create a .env file with the following content
+OPENAI_API_KEY=
+
+
 
 
 # Demos
