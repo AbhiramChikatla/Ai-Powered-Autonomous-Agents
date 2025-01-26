@@ -15,10 +15,11 @@ AI-Powered Autonomous Agents is an open-source project that automates daily work
 To install AI-Powered Autonomous Agents, follow these steps:
 
 ```bash
-git clone https://github.com/yourusername/ai-powered-autonomous-agents.git
-cd ai-powered-autonomous-agents
+git clone https://github.com/AbhiramChikatla/Ai-Powered-Autonomous-Agents.git
 ```
-we recommend using python virutual environments
+
+We recommend using python virutual environments
+
 
 To create a python virtual environment
 ```bash
@@ -32,6 +33,13 @@ venv\Scripts\activate
 ```
 Create a .env file with the following content
 OPENAI_API_KEY=
+
+
+Run the python script using the command
+```bash
+python document.py
+```
+
 
 
 
